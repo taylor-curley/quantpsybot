@@ -4,4 +4,4 @@ This bot scrapes different websites for new releases in journal articles related
 
 The quantpsybot is the first iteration of a series of Twitterbots dedicated to mining journal websites and is directly related to @cogpsybot and @cogagingbot.
 
-Follow us on Twitter (@cogagingbot)!
+Follow us on Twitter (@quantpsybot)!

@@ -1,0 +1,138 @@
+Primary facets of order polytopes
+http://www.sciencedirect.com/science/article/pii/S0022249616300608
+Relating accumulator model parameters and neural dynamics
+http://www.sciencedirect.com/science/article/pii/S0022249616300499
+Executive functions and the generation of “random” sequential responses: A computational account
+http://www.sciencedirect.com/science/article/pii/S0022249616300414
+How hierarchical models improve point estimates of model parameters at the individual level
+http://www.sciencedirect.com/science/article/pii/S0022249616300025
+What makes risk acceptable? Revisiting the 1978 psychological dimensions of perceptions of technological risks
+http://www.sciencedirect.com/science/article/pii/S002224961630027X
+Rejection odds and rejection ratios: A proposal for statistical practice in testing hypotheses
+http://www.sciencedirect.com/science/article/pii/S002224961600002X
+Structural Validity of the Pittsburgh Sleep Quality Index in Chinese Undergraduate Students
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01126
+Using Multigroup-Multiphase Latent State-Trait Models to Study Treatment-Induced Changes in Intra-Individual State Variability: An Application to Smokers' Affect
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01043
+Does Exercise Improve Cognitive Performance? A Conservative Message from Lord's Paradox
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01092
+Do Our Means of Inquiry Match our Intentions?
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01048
+Study Protocol on Ecological Momentary Assessment of Health-Related Quality of Life Using a Smartphone Application
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01086
+Response: Commentary: Heart rate variability and self-control–A meta-analysis
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01070
+Thou Shalt Be Reproducible! A Technology Perspective
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01079
+Cross-Validation of the Spanish HP-Version of the Jefferson Scale of Empathy Confirmed with Some Cross-Cultural Differences
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01002
+The Interpretation of Scholars' Interpretations of Confidence Intervals: Criticism, Replication, and Extension of Hoekstra et al. (2014)
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01042
+Modeling the Overalternating Bias with an Asymmetric Entropy Measure
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01027
+Color Discrimination Is Affected by Modulation of Luminance Noise in Pseudoisochromatic Stimuli
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01006
+“It’s Always the Judge’s Fault”: Attention, Emotion Recognition, and Expertise in Rhythmic Gymnastics Assessment
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01008
+Characterization of Vulnerable and Resilient Spanish Adolescents in Their Developmental Contexts
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00983
+Examining the Importance of the Teachers' Emotional Support for Students' Social Inclusion Using the One-with-Many Design
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.01014
+Asymmetries in Responses to Attitude Statements: The Example of “Zero-Sum” Beliefs
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00984
+Study Protocol on Intentional Distortion in Personality Assessment: Relationship with Test Format, Culture, and Cognitive Ability
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00933
+Evidence of Factorial Validity of Parental Knowledge, Control and Solicitation, and Adolescent Disclosure Scales: When the Ordered Nature of Likert Scales Matters
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00941
+Less Is More: Psychologists Can Learn More by Studying Fewer People
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00934
+A Simulation Study of Threats to Validity in Quasi-Experimental Designs: Interrelationship between Design, Measurement, and Analysis
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00897
+The Revised Identity Style Inventory: Factor Structure and Validity in Italian Speaking Students
+http://journal.frontiersin.org/article/10.3389/fpsyg.2016.00883
+MCMC Z-G: An IRT Computer Program for Forced-Choice Noncognitive Measurement
+http://apm.sagepub.com/cgi/content/abstract/0146621616663682v1?rss=1
+MIMIC Methods for Detecting DIF Among Multiple Groups: Exploring a New Sequential-Free Baseline Procedure
+http://apm.sagepub.com/cgi/content/abstract/0146621616659738v1?rss=1
+Optimal Reassembly of Shadow Tests in CAT
+http://apm.sagepub.com/cgi/content/abstract/0146621616654597v1?rss=1
+A Novel Method for Expediting the Development of Patient-Reported Outcome Measures and an Evaluation Across Several Populations
+http://apm.sagepub.com/cgi/content/abstract/0146621616652634v1?rss=1
+Evaluating bifactor models: Calculating and interpreting statistical indices.
+http://feedproxy.google.com/~r/apa-journals-met/~3/NdPhMoe0tdw/137
+Testing nonnested structural equation models.
+http://feedproxy.google.com/~r/apa-journals-met/~3/ZKzaXFD2nUc/151
+Impact of homogeneous and heterogeneous parceling strategies when latent variables represent multidimensional constructs.
+http://feedproxy.google.com/~r/apa-journals-met/~3/ewzoU8MyOXo/164
+Performance of time-varying predictors in multilevel models under an assumption of fixed or random effects.
+http://feedproxy.google.com/~r/apa-journals-met/~3/bKRH1q1YadA/175
+Multilevel structural equation models for assessing moderation within and across levels of analysis.
+http://feedproxy.google.com/~r/apa-journals-met/~3/2oOGV_jl2O8/189
+How to compare cross-lagged associations in a multilevel autoregressive model.
+http://feedproxy.google.com/~r/apa-journals-met/~3/ZSjkV5rfRQI/206
+Fungible weights in logistic regression.
+http://feedproxy.google.com/~r/apa-journals-met/~3/-QrCrD42TyY/241
+The variance of the adjusted Rand index.
+http://feedproxy.google.com/~r/apa-journals-met/~3/BwBLyUuC09o/261
+Testing the predictive validity of the Personality Assessment Inventory (PAI) in relation to inmate misconduct and violence.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/QPWLAG2HftQ/871
+The Alliance Negotiation Scale: A psychometric investigation.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/YNADkRBic28/885
+Psychometric properties of the Barriers to Treatment Participation Scale–Expectancies.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/_cVy7_bSi0w/898
+Competence and Adherence Scale for Cognitive Behavioral Therapy (CAS-CBT) for anxiety disorders in youth: Psychometric properties.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/lejX2KbB6f4/908
+Bifactor latent structure of attention-deficit/hyperactivity disorder (ADHD)/oppositional defiant disorder (ODD) symptoms and first-order latent structure of sluggish cognitive tempo symptoms.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/jsjPHPRI7vQ/917
+Measuring ability to enhance and suppress emotional expression: The Flexible Regulation of Emotional Expression (FREE) Scale.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/xgurxi4z9pE/929
+Do the Kaufman tests of cognitive ability and academic achievement display construct bias across a representative sample of Black, Hispanic, and Caucasian school-age children in grades 1 through 12?
+http://feedproxy.google.com/~r/apa-journals-pas/~3/sz3HM9suQww/942
+Simulating computer adaptive testing with the Mood and Anxiety Symptom Questionnaire.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/ROpiHS20xso/953
+Who are we missing? Nondisclosure in online suicide risk screening questionnaires.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/iDzvwvS27O8/963
+Factor structure of the Wechsler Intelligence Scale for Children–Fifth Edition: Exploratory factor analyses with the 16 primary and secondary subtests.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/WVAgndhTAzM/975
+The relationships between WAIS-IV factor index scores and educational level: A bifactor model approach.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/wxy5QKj85Jg/987
+Validation of the Dyadic Coping Inventory with Chinese couples: Factorial structure, measurement invariance, and construct validity.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/MOP-j3QKMi8/e127
+Assessing trauma and posttraumatic stress disorder: Single, open-ended question versus list-based inventory.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/EzImD1jfvS4/1001
+Does the Five Facet Mindfulness Questionnaire measure what we think it does? Construct validity evidence from an active controlled randomized clinical trial.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/rfTjgUFK5-I/1009
+Teacher ratings of child behavior in preschool: A MIMIC investigation of the BESS TRS-P.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/QHymLgzC-lY/1015
+Perceived barriers to seeking mental health care among United States Marine Corps noncommissioned officers serving as gatekeepers for suicide prevention.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/tLYF9aPpgII/1020
+Limitations of a single-item assessment of suicide attempt history: Implications for standardized suicide risk assessment.
+http://feedproxy.google.com/~r/apa-journals-pas/~3/cU18zeh2yIo/1026
+The relationship between multilevel models and non-parametric multilevel mixture models: Discrete approximation of intraclass correlation, random coefficient distributions, and residual heteroscedasticity
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12073
+On initial item selection in cognitive diagnostic computerized adaptive testing
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12072
+Limited-information goodness-of-fit testing of diagnostic classification item response models
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12074
+Properties of bootstrap tests for N-of-1 studies
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12071
+A sequential cognitive diagnosis model for polytomous responses
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12070
+Comparing dependent robust correlations
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12069
+Modelling non-normal data: The relationship between the skew-normal factor model and the quadratic factor model
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12062
+Limited information estimation of the diffusion-based item response theory model for responses and response times
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12064
+Sequential detection of learning in cognitive diagnosis
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12065
+Testing for negligible interaction: A coherent and robust approach
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12066
+The choice of the ability estimate with asymptotically correct standardized person-fit statistics
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12067
+An evaluation of exact methods for the multiple subset maximum cardinality selection problem
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12068
+Multilevel multiple imputation: A review and evaluation of joint modeling and chained equations imputation.
+http://feedproxy.google.com/~r/apa-journals-met/~3/WKblPwLXMLg/222
+A short note on the maximal point-biserial correlation under non-normality
+http://onlinelibrary.wiley.com/resolve/doi?DOI=10.1111%2Fbmsp.12075

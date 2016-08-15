@@ -17,3 +17,8 @@ Sadly, there are very few Quantitative Psychology journals out there, but we wil
 The quantpsybot is the first iteration of a series of Twitterbots dedicated to mining journal websites and is directly related to @cogpsybot and @cogagingbot.
 
 Follow us on Twitter ([@quantpsybot](http://www.twitter.com/quantpsybot))!
+
+***
+
+UPDATE (08/15/16):
+- We will be updating the code to delay Tweets. Many publishing companies publish their newest articles in bulk, which causes the bots to post at once, potentially violating Twitter's API guidelines. 
